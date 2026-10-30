@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Mrcoconut_MC",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "Donutt-SMP.aternos.me",
